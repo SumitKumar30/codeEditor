@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "PORT": 3000,
+        "DB_URI": "dev.example-db-uri.com"
+    },
+    "test": {
+        "PORT": 4000,
+        "DB_URI": "test.example-db-uri.com"
+    }
+}
